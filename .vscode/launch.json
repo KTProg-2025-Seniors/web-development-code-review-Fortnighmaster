@@ -9,7 +9,11 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
+<<<<<<< HEAD
+            "url": "http://Code_Wed_devopment.html",
+=======
             "url": "http://localhost:8080",
+>>>>>>> ac9c7dba8ac6fd4048ff87ae84436ce49e8dea0e
             "webRoot": "${workspaceFolder}"
         }
     ]
