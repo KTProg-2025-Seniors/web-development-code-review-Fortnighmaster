@@ -26,12 +26,4 @@ body{
     margin: 20px;
 
 }
-#chartContainer{
-    width:100%; 
-    max-width:600px; 
-    height:500px;
-    color:black;
-    padding: 50px;
-    margin: 20px;
-    background-color: white;
-}
+
