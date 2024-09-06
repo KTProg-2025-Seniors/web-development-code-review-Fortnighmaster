@@ -21,7 +21,6 @@ body{
     background-color: red;
     color:white;
     width: 300px;
-    border: 15px solid red;
     padding: 50px;
     margin: 20px;
 
@@ -30,5 +29,8 @@ body{
     width:100%; 
     max-width:600px; 
     height:500px;
-    color:white;
+    color:black;
+    padding: 50px;
+    margin: 20px;
+    background-color: white;
 }

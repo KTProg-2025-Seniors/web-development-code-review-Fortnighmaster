@@ -23,8 +23,8 @@ function drawChart() {
     const chart = new google.visualization.LineChart(document.getElementById('myChart'));
     chart.draw(data, options);
     
-    }*/
-    window.onload = function () {
+    }*/ 
+    window.onload = function (chartContainer) {
 
       var chart = new CanvasJS.Chart("chartContainer", {
         animationEnabled: true,
