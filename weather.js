@@ -1,4 +1,4 @@
-google.charts.load('current',{packages:['corechart']});
+/*google.charts.load('current',{packages:['corechart']});
 google.charts.setOnLoadCallback(drawChart);
 
 function drawChart() {
@@ -23,5 +23,5 @@ function drawChart() {
     const chart = new google.visualization.LineChart(document.getElementById('myChart'));
     chart.draw(data, options);
     
-    }
+    }*/
 			
