@@ -17,8 +17,13 @@ body{
     color:white;
     background-color: black;
 }
-.box{
+.box1{
     background-color: red;
+    color:white;
+    width: 300px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
 
 }
 #myChart{
