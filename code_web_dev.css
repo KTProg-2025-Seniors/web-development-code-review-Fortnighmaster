@@ -1,16 +1,19 @@
-#timeZone {
+#navBar {
     position: fixed;
     top: 0;
     right: 0;
-    width: 275px;
+    width: 100%;
     height: 180px;
-    border: 3px solid #73AD21; 
+    border: 3px solid #73AD21;
+    margin: 0;
+    padding: 0;  
 }
 body{
     color:white;
     background-color: black;
 }
-.box{
-    background-color: red;
-
+#myChart{
+    width:100%; 
+    max-width:600px; 
+    height:500px;
 }
