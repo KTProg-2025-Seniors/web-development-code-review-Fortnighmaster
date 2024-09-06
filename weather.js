@@ -24,3 +24,7 @@ function drawChart() {
     chart.draw(data, options);
     
     }*/
+function timez () {
+  let f = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  document.getElementById('myChart')
+}
