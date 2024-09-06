@@ -24,4 +24,9 @@ function drawChart() {
     chart.draw(data, options);
     
     }*/
+   function TimeyZ() {
+      var offset = new Date().getTimezoneOffset();
+      console.log(offset);
+      document.getElementById('myChart').innerHTML == offset;
+   }
 			
