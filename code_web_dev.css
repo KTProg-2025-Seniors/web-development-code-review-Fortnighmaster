@@ -12,6 +12,10 @@ body{
     color:white;
     background-color: black;
 }
+.box{
+    background-color: red;
+
+}
 #myChart{
     width:100%; 
     max-width:600px; 
