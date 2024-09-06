@@ -25,10 +25,12 @@ function drawChart() {
     
     }*/
     function TimeyZ() {
-      var offset = new Date().getTimezoneOffset();
-      console.log(offset);
+      var T = new Date();
+      let YY = T.getHours() + T.getMinutes() + T.getSeconds();
       document.getElementById('myChart').innerHTML == offset;
+
    }
+
    window.onload = function (chartContainer) {
 
     var chart = new CanvasJS.Chart("chartContainer", {
