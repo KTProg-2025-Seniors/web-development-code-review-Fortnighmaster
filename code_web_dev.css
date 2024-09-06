@@ -12,5 +12,6 @@ body{
 }
 .box{
     background-color: red;
-
+    width: 275px;
+    height: 180px;
 } 
